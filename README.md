@@ -1,3 +1,6 @@
+Hi there👋
+
+<!--
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=Hi%20there👋&height=200&fontSize=70&fontColor=ffffff)
@@ -31,3 +34,4 @@
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 </div>
+-->
